@@ -3,7 +3,7 @@
 <br>
 
 
-Hi, I am Agesa 👋<br>
-Software Engineer at [Wezeshanet Technologies](https://www.wezeshanet.com)
+Hi, I am Jathin 👋<br>
+Undergraduate at [VIT Vellore](https://vit.ac.in/)
 
-EMAIL: <a href="mailto:joashagesa@yahoo.com">joashagesa@yahoo.com</a>
+EMAIL: <a href="mailto:jathinkumar10@gmail.com">jathinkumar10@gmail.com</a>
