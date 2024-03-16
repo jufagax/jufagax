@@ -1,13 +1,9 @@
-### Hi there 👋
+<img src="https://github.com/Jace254/Jace254/blob/main/Github%20Cheersquad.png"/>
+<br>
+<br>
 
-<!--
-**jufagax/jufagax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I am Agesa 👋<br>
+Software Engineer at [Wezeshanet Technologies](https://www.wezeshanet.com)
 
-- 🔭 I’m currently working on Getting Better
-- 🌱 I’m currently learning Anything I could
-- 👯 I’m looking to collaborate on Real time projects
-- 📫 How to reach me: jathinkumar10@gmail.com
-
--->
+EMAIL: <a href="mailto:joashagesa@yahoo.com">joashagesa@yahoo.com</a>
